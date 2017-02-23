@@ -1,0 +1,10 @@
+Package: testPackage
+Title: Lufthansa RapidMiner R Package
+Version: 0.1
+Date: 2017-02-23
+Author: Fabian Werner
+Maintainer: Fabian Werner <fabian.werner@lhind.dlh.de>
+Description: This is a pacage combining all necessary global functionality
+    for the RapidMiner processes.
+Imports: data.table,caTools
+License: Proprietary
